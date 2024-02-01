@@ -1,4 +1,4 @@
-# project 3: Classification of cancer types with Logistic Regression algorithm.
+# project 3: Classification of cancer types with Logistic Regression algorithm using python
 
 # Objective: 
 1. Build classification model with Logistic Regression to predict whether the cancer type is Malignant or Benign.
